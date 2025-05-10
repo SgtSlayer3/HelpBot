@@ -1,0 +1,30 @@
+Level|Prerequisites|Bread|Wood|Coal|Iron|Upgrade Time
+2|Sawmill Lvl. 1|N/A|180|N/A|N/A|6 seconds
+3|House 1 Lvl. 2|N/A|805|N/A|N/A|1 minute
+4|Quarry Lvl. 3|N/A|1800|360|N/A|3 minutes
+5|Hero Hall, House 3 Lvl. 3|N/A|7600|1500|N/A|10 minutes
+6|Iron Mine Lvl. 5|N/A|19000|3800|960|30 minutes
+7|Mill Lvl. 6|N/A|69000|13000|3400|1 hour
+8|Barracks Lvl. 7|N/A|120000|25000|6300|2 hours, 30 minutes
+9|Embassy Lvl. 8, Infirmary Lvl. 1|N/A|260000|52000|13000|4 hours, 30 minutes
+10|Range Lvl. 9, Academy|N/A|460000|92000|23000|6 hours
+11|Embassy Lvl. 10, Stable Lvl. 10|1300000|1300000|260000|65000|7 hours, 30 minutes
+12|Embassy Lvl. 11, Command Center Lvl. 1|1600000|1600000|330000|84000|9 hours
+13|Embassy lvl. 12, Barracks lvl. 12|2300000|2300000|470000|110000|11 hours
+14|Embassy Lvl. 13, Range Lvl. 13|3100000|3100000|630000|150000|14 hours
+15|Embassy Lvl. 14, Stable Lvl. 14|4600000|4600000|930000|230000|18 hours
+16|Embassy Lvl. 15, Academy Lvl. 15|5900000|5900000|1100000|290000|1 day, 6 hours, 28 minutes
+17|Embassy Lvl. 16, Barracks Lvl. 16|9300000|9300000|1800000|480000|1 day, 12 hours, 34 minutes
+18|Embassy Lvl. 17, Range Lvl. 17|12000000|12000000|2500000|620000|1 day, 19 hours, 53 minutes
+19|Embassy Lvl. 18 Stable Lvl. 18|15000000|15000000|3100000|780000|2 days, 17 hours, 50 minutes
+20|Embassy Lvl. 19, Academy Lvl. 19|21000000|21000000|4300000|1000000|3 days, 10 hours, 18 minutes
+21|Embassy Lvl. 20, Barracks Lvl. 20|27000000|27000000|5400000|1300000|4 days, 10 hours, 59 minutes
+22|Embassy Lvl.21, Range Lvl. 21|36000000|36000000|7200000|1800000|6 days, 16 hours, 29 minutes
+23|Embassy Lvl. 22, Stable Lvl. 22|44000000|44000000|8900000|2200000|9 days, 8 hours, 40 minutes
+24|Embassy Lvl. 23, Academy Lvl. 23|60000000|60000000|12000000|3000000|13 days, 2 hours, 33 minutes
+25|Embassy Lvl 24, Barracks Lvl 24|81000000|81000000|16000000|4000000|18 days, 8 hours, 22 minutes
+26|Embassy Lvl. 25, Range Lvl. 25|100000000|100000000|21000000|5200000|21 days, 2 hours, 26 minutes
+27|Embassy Lvl. 26, Stable Lvl. 26|140000000|140000000|24000000|7400000|25 days, 7 hours, 43 minutes
+28|Embassy Lvl. 27, Academy Lvl. 27|190000000|190000000|39000000|9900000|29 days, 2 hours, 52 minutes
+29|Embassy Lvl. 28, Barracks Lvl. 28|240,000,000|240,000,000|49,000,000|12,000,000|33 days, 11 hours, 42 minutes
+30|Embassy Lvl. 29, Range Lvl. 29|300,000,000|300,000,000|60,000,000|15,000,000|40 days, 4 hours, 27 minutes
