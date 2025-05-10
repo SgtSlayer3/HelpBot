@@ -20,4 +20,4 @@ How to compile/run:
 - Create the .env, channelIDs.txt, and giftCodes.txt
 - Run the bot
 
-If you would like to test the bot please see: 
+If you would like to run tests please see the test bot directory.
