@@ -21,3 +21,4 @@ How to compile/run:
 - Run the bot
 
 If you would like to run tests please see the test bot directory.
+For a quick demo see: https://youtu.be/Q-Vmq03-QRA
