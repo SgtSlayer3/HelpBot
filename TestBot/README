@@ -1,0 +1,3 @@
+Posts all questions from the questions.txt file when run.test is typed with a 5 sec delay.
+
+Be sure to replace TOKEN = """Put your bot token here""" with your own token and update CHANNEL_ID = 123456789012345678 with your own.
