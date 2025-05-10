@@ -13,7 +13,6 @@ def get_show_me_response(content: str):
         }
 
 if __name__ == "__main__":
-    # Accept content passed as arguments from helpBot.py
     content = " ".join(sys.argv[1:])
     response = get_show_me_response(content)
 
