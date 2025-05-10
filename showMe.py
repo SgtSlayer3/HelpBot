@@ -12,16 +12,6 @@ def get_show_me_response(content: str):
             "color": 0x3498db
         }
 
-    elif "example" in content:
-        return {
-            "title": "📘 Example Command",
-            "description": "This is an example response for 'show me example'.",
-            "image_url": None,
-            "color": 0x3498db
-        }
-
-    return None
-
 if __name__ == "__main__":
     # Accept content passed as arguments from helpBot.py
     content = " ".join(sys.argv[1:])
