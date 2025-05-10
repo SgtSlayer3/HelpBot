@@ -1,7 +1,7 @@
 import discord
 import asyncio
 
-TOKEN = 'MTM2NTIwOTI1Mjg0Njc2ODE5OQ.GvuRug.29i44GSnTbBO0gBQo4reWO7UyWI2ioanjl2tTo'
+TOKEN = """Put your bot token here"""
 CHANNEL_ID = 1364582455436378213  # Replace this with your target channel ID
 QUESTIONS_FILE = 'questions.txt'
 
